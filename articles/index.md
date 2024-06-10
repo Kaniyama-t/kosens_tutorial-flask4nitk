@@ -1,9 +1,13 @@
 🦀PythonとFlask入門🦀（front page）
 ===
 
+
 :::info
 左にセクション一覧が表示されていない方は[こちら](https://hackmd.io/@kaniyama-t/flask_introduction4nitk)へ
 :::
+
+[![hackmd-github-sync-badge](https://hackmd.io/za7J2DgdSDeKo9S4sym7ZA/badge)](https://hackmd.io/za7J2DgdSDeKo9S4sym7ZA)
+
 
 ## What's is this?
 
