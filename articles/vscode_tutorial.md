@@ -1,6 +1,9 @@
 Flask入門：vscodeの使い方
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/PvrsANpcRZ-mO9MhVBYgXg/badge)](https://hackmd.io/PvrsANpcRZ-mO9MhVBYgXg)
+
 :::danger
 <h1>この記事は書き途中です</h1>
 <h4>フィードバックお待ちしてます(hackmdにログインしてコメントください。)</h4>
