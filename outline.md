@@ -1,5 +1,6 @@
 🦀PythonとFlask入門🦀
 ===
+- [![hackmd-github-sync-badge](https://hackmd.io/Nr73Kvl6THaQmygxB6JOzQ/badge)](https://hackmd.io/Nr73Kvl6THaQmygxB6JOzQ)
 
 はじめに
 ===
