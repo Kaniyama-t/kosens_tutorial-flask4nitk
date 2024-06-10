@@ -2,6 +2,9 @@
 Flask入門：A Minimal Application
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/FP3_XoUUTMuNz9vwxjNG7A/badge)](https://hackmd.io/FP3_XoUUTMuNz9vwxjNG7A)
+
 :::info
 <h4>フィードバックお待ちしてます(お気づきの点あればコメントくださると幸いです、要hackmdアカウント(多分))</h4>
 :::
