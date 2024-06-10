@@ -2,6 +2,9 @@
 Flask入門：意味のあるデータを返してみよう
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/FyPat9bFRSCdL01PZeG3wQ/badge)](https://hackmd.io/FyPat9bFRSCdL01PZeG3wQ)
+
 :::danger
 <h1>この記事は書き途中です</h1>
 <h4>フィードバックお待ちしてます(hackmdにログインしてコメントください。)</h4>
