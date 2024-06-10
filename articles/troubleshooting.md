@@ -1,6 +1,9 @@
 Flask入門：TroubleShooting
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/9xCN7OOdS7iFJrYN-p8Meg/badge)](https://hackmd.io/9xCN7OOdS7iFJrYN-p8Meg)
+
 ## flask runが動かない
 
 可能性として以下が考えられます
